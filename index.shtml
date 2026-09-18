@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Terpconnect Static Site</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="icon" type="image/png" href="favicon.png">
+    </head>
+
+ <body>
+    <h1>Terpconnect Static Site</h1>
+    <h2>Render Info</h2>
+    <ul>
+        <li><strong>Name:</strong> Bethel Habtamu</li>
+        <li><strong>Render Location: </strong>No Here!</li>
+    </ul>
+    <strong>Last Modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
+
+    <table class="tableStyle">
+            <caption><em>Books in the Bible!</em></caption>
+            <thead>
+                <tr>
+                    <th>Book</th>
+                    <th>Testament</th>
+                    <th>Chapters</th>
+                    <th>Key Verse</th>
+                    <th>Messages</th>
+                </tr>
+            </thead>
+            
+            <tbody>
+                <tr>
+                    <td>Matthew</td>
+                    <td>New Testament</td>
+                    <td>28</td>
+                    <td>Matthew 1:21</td>
+                    <td>Jesus is the promised Messiah who saves His people from their sins</td>
+                </tr>
+                <tr>
+                    <td>Mark</td>
+                    <td>New Testament</td>
+                    <td>16</td>
+                    <td>Mark 10:45</td>
+                    <td>Jesus came to give His life as a ransom for many</td>
+                </tr>
+                <tr>
+                    <td>Luke</td>
+                    <td>New Testament</td>
+                    <td>24</td>
+                    <td>Luke 19:10</td>
+                    <td>Jesus came to seek and save the lost</td>
+                </tr>
+                <tr>
+                    <td>John</td>
+                    <td>New Testament</td>
+                    <td>21</td>
+                    <td>John 3:16</td>
+                    <td>Through faith in Jesus, people can receive eternal life</td>
+                </tr>
+            </tbody>
+        
+        </table>
+
+<iframe width="560", height="315" src="https://www.youtube.com/embed/ZXqQGuAt7SE?si=C6HkhcZP-VdeK_60" title="The Gospel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+
+</html>
+ 
